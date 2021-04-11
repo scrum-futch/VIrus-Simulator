@@ -23,3 +23,6 @@ https://github.com/scrum-futch/VIrus-Simulator
 
 For setting up and training your own models
 https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/installation.md
+
+To Open the Project, Go to Assets -> Scenes -> Demo scene file
+Must have unity installed
